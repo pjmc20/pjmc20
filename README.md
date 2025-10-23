@@ -16,7 +16,7 @@
         <br>
         <p>
             <strong>
-                Computer Science student, Back-End Developer thanks to Oracle and Alura Latam through the Oracle ONE program. Currently I'm not working, although I'm in certification courses related to my career such as Harvard CS50.<br><br>
+                Computer Science student, Back-End Developer thanks to Oracle and Alura Latam through the Oracle ONE program. Currently I'm not working, although I'm in certification courses related to my career such as Harvard CS50 and Cisco IT Essentials to mention a few .<br><br>
             </strong>
         </p>
       <ul>
